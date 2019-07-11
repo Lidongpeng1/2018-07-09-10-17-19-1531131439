@@ -1,7 +1,7 @@
 //package practice05;
 //
 //import org.junit.Test;
-//
+//  //预计花费时间1min，与上一test代码一致
 //import static org.fest.assertions.api.Assertions.assertThat;
 //
 //public class Practice05Test {
