@@ -1,6 +1,6 @@
 //package practice07;
 //
-//import org.junit.Before;
+//import org.junit.Before;   //预计时间15min
 //import org.junit.Test;
 //
 //import static org.fest.assertions.api.Assertions.assertThat;

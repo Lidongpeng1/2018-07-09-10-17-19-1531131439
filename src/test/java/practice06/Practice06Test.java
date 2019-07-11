@@ -1,6 +1,6 @@
 //package practice06;
 //  //预估时间10min
-//import org.junit.Test;
+//import org.junit.Test;   //10min
 //
 //import static org.fest.assertions.api.Assertions.assertThat;
 //

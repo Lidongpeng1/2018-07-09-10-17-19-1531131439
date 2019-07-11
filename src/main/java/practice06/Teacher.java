@@ -2,13 +2,13 @@ package practice06;
 
 public class Teacher extends Person{
 
-    private Integer  klass;
+    private int  klass;
 
     public Teacher(String name, int age) {
         super(name, age);
     }
 
-    public Teacher(String name, int age, Integer klass) {
+    public Teacher(String name, int age, int klass) {
         super(name, age);
         this.klass = klass;
     }
@@ -22,7 +22,7 @@ public class Teacher extends Person{
         }
     }
 
-    public Integer getKlass() {
+    public int getKlass() {
         return klass;
     }
 
