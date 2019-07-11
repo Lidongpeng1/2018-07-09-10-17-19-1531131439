@@ -18,7 +18,7 @@
 //        String introduce = tom.introduce();
 //        assertThat(introduce).isEqualTo("My name is Tom. I am 21 years old.");
 //    }
-//
+//  //预计时间8min
 //    @Test
 //    public void should_student_have_name_age_and_class_number() throws Exception {
 //        Student tom = new Student("Tom", 21, 2);
