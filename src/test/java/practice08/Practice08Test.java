@@ -2,7 +2,7 @@
 //
 //import org.junit.Before;
 //import org.junit.Test;
-//
+// //预计花费十分钟
 //import static org.fest.assertions.api.Assertions.assertThat;
 //
 //public class Practice08Test {
